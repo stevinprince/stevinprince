@@ -3,10 +3,10 @@
 
 <!--### Hi there 👋-->
 
-- 🔭 I’m currently a Associate Softtware Engineer 
+- 🔭 I’m currently a Software Engineer 
 - 😄 I'm a Full Stack Developer. Contact me for any project requirements.
-- 🌱 I’m currently learning Go
-- 💬 Ask me about HTML,CSS & JavaScript
+- 🌱 I’m currently learning Backend Architectures
+- 💬 Ask me about Golang
 - 📫 How to reach me: Email,Twitter,Linkedin
 
 [![Kemosabe2911's github stats](https://github-readme-stats.vercel.app/api?username=kemosabe2911&theme=algolia&show_icons=true&hide=issues)](https://github.com/kemosabe2911/github-readme-stats)
