@@ -4,13 +4,13 @@
 <!--### Hi there 👋-->
 
 - 🔭 I’m currently a Software Engineer 
-- 😄 I'm a Full Stack Developer. Contact me for any project requirements.
+- 😄 I'm a Backend Developer. Contact me for any project requirements.
 - 🌱 I’m currently learning Backend Architectures
-- 💬 Ask me about Golang
+- 💬 Ask me about Golang, Python
 - 📫 How to reach me: Email,Twitter,Linkedin
 
-[![Kemosabe2911's github stats](https://github-readme-stats.vercel.app/api?username=kemosabe2911&theme=algolia&show_icons=true&hide=issues)](https://github.com/kemosabe2911/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemosabe2911&layout=compact&theme=algolia)](https://github.com/kemosabe2911/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=stevinprince&theme=algolia&show_icons=true&hide=issues)](https://github.com/stevinprince/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevinprince&layout=compact&theme=algolia)](https://github.com/stevinprince/github-readme-stats)
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemosabe2911&theme=algolia" />-->
 
 <!-- Actual text -->
@@ -25,10 +25,10 @@ You can find me on [![Twitter][1.2]][1]  [![LinkedIn][2.2]][2].
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/prince_stevin
-[2]: https://www.linkedin.com/in/stevin-prince-b07092183
+[2]: https://www.linkedin.com/in/stevinprince/
 
 <!--
-**Kemosabe2911/Kemosabe2911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**stevinprince/stevinprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
