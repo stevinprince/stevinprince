@@ -1,5 +1,5 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/Kemosabe2911/Kemosabe2911/main/wave.gif" width="30px">
-<img src="https://raw.githubusercontent.com/Kemosabe2911/Kemosabe2911/main/Kemosabe2911.png">
+# Hello, folks! <img src="https://raw.githubusercontent.com/stevinprince/stevinprince/main/wave.gif" width="30px">
+<img src="https://raw.githubusercontent.com/stevinprince/stevinprince/main/Kemosabe2911.png">
 
 <!--### Hi there 👋-->
 
@@ -11,7 +11,7 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=stevinprince&theme=algolia&show_icons=true&hide=issues)](https://github.com/stevinprince/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevinprince&layout=compact&theme=algolia)](https://github.com/stevinprince/github-readme-stats)
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemosabe2911&theme=algolia" />-->
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevinprince&theme=algolia" />-->
 
 <!-- Actual text -->
 
