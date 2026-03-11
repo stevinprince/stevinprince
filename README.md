@@ -4,8 +4,8 @@
 <!--### Hi there 👋-->
 
 - 🔭 I’m currently a Software Engineer 
-- 😄 I'm a Backend Developer. Contact me for any project requirements.
-- 🌱 I’m currently learning Backend Architectures
+- 😄 I'm a Backend Developer.
+- 🌱 I’m currently learning Backend Architectures and Go Concurrency
 - 💬 Ask me about Golang, Python
 - 📫 How to reach me: Email,Twitter,Linkedin
 
@@ -15,7 +15,7 @@
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1]  [![LinkedIn][2.2]][2].
+You can find me on [![Twitter][1.2]][1]     [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
