@@ -3,9 +3,9 @@
 
 <!--### Hi there 👋-->
 
-- 🔭 I’m currently a Software Engineer 
-- 😄 I'm a Backend Developer.
-- 🌱 I’m currently learning Backend Architectures and Go Concurrency
+- 🔭 I’m currently a Software Engineer
+- 😄 I focus on Backend Developement using Go.
+- 🌱 I’m currently learning Data Engineering.
 - 💬 Ask me about Golang, Python
 - 📫 How to reach me: Email,Twitter,Linkedin
 
